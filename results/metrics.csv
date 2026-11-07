@@ -1,0 +1,5 @@
+modelo,limiar,precisao,recall,f1,roc_auc,pr_auc,cenario
+Regressao Logistica (limiar 0.5),0.5,0.364,0.741,0.488,0.891,0.486,nota>=7
+Regressao Logistica (limiar ajustado),0.64,0.472,0.63,0.54,0.891,0.486,nota>=7
+Random Forest (limiar 0.5),0.5,0.607,0.63,0.618,0.918,0.711,nota>=7
+Random Forest (limiar ajustado),0.4,0.475,0.704,0.567,0.918,0.711,nota>=7
