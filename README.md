@@ -56,4 +56,4 @@ jupyter notebook   # rode 01_eda.ipynb e depois 02_modelagem.ipynb (Restart & Ru
 - **Implicações para a produção:** controlar a acidez volátil; acompanhar o ponto de colheita/maturação (teor alcoólico); monitorar sulfatos e SO₂ total em faixas adequadas; usar o modelo como triagem de lotes, com o enólogo decidindo.
 - **Limites:** correlação não é causalidade; base pequena; nota sensorial subjetiva.
 
-**Autor:** João Vittor
+**Autor:** João Vitor Silvestre Ribeiro
